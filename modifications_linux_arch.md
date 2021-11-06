@@ -58,7 +58,7 @@ timedatectl set-ntp true
 
 Partitioning:
 
-⚠️  Attention! This step will erase data. Make sure to have an backup of your files before doing it.
+⚠️  Attention! This step will erase data. Make sure to have a backup of your files before doing it.
 
 - check disk partitions using:
 
