@@ -1,0 +1,10 @@
+zsh-theme-powerlevel10k
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
+nano-syntax-highlighting
+exa 
+tmux
+xclip
+thunderbird
+vlc
